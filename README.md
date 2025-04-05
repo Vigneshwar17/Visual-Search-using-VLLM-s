@@ -39,7 +39,7 @@ This project implements a **Visual Search system** powered by **Vision-Language 
 ## 🙋‍♂️ Author
 
 - **Name**: Vigneshwar S
-- **Email**: [vigneshwar.codes@gmail.com]  
+- **Email**: vigneshwar.codes@gmail.com  
 - **GitHub**: https://github.com/Vigneshwar17
 
 ## 🤝 Collaborators
