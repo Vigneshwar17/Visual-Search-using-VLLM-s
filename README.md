@@ -36,6 +36,27 @@ This project implements a **Visual Search system** powered by **Vision-Language 
 - PostgreSQL with pgvector extension
 
 ---
+## 🙋‍♂️ Author
+
+- **Name**: Vigneshwar S
+- **Email**: [vigneshwar.codes@gmail.com]  
+- **GitHub**: https://github.com/Vigneshwar17
+
+## 🤝 Collaborators
+
+- **Name**: Gokulnath V  
+  - **GitHub**: https://github.com/demon0211
+
+- **Name**: Marishwaran A  
+  - **GitHub**: https://github.com/Ultimatemarish
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You're free to use, modify, and distribute this software with proper attribution.  
+See the [LICENSE](./LICENSE) file for more details.
+
 
 ## ⚙️ Setup and Installation
 
