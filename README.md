@@ -57,7 +57,7 @@ Demo Video Link - https://drive.google.com/file/d/10QXP-tAAf4WTF66EnV3CdLTr4lhob
 
 This project is licensed under the **MIT License**.  
 You're free to use, modify, and distribute this software with proper attribution.  
-See the [LICENSE](./LICENSE) file for more details.
+See the [LICENSE](./https://github.com/Vigneshwar17/Visual-Search-using-VLLM-s/blob/main/LICENSE.txt) file for more details.
 
 
 ## ⚙️ Setup and Installation
