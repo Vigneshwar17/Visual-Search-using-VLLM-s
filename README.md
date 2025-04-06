@@ -2,7 +2,7 @@
 
 This project implements a **Visual Search system** powered by **Vision-Language Large Models (VLLMs)** like CLIP. Users can input natural language queries and the system first performs a local search using **pgvector** and CLIP embeddings stored in a PostgreSQL database. If no relevant match is found locally, it falls back to an **external API call** to fetch semantically matching images, ensuring optimal retrieval from both internal and external sources.
 
-Demo Video Link - https://drive.google.com/file/d/1uRKxcNU90IazTnqY7-tm_lBSQPv-ydef/view?usp=sharing
+Demo Video Link - https://drive.google.com/file/d/10QXP-tAAf4WTF66EnV3CdLTr4lhobyGy/view?usp=sharing
 
 ---
 
